@@ -1,0 +1,12 @@
+inventorysystemog.py:2:1: F401 'logging' imported but unused
+inventorysystemog.py:8:1: E302 expected 2 blank lines, found 1
+inventorysystemog.py:14:1: E302 expected 2 blank lines, found 1
+inventorysystemog.py:19:5: E722 do not use bare 'except'
+inventorysystemog.py:22:1: E302 expected 2 blank lines, found 1
+inventorysystemog.py:25:1: E302 expected 2 blank lines, found 1
+inventorysystemog.py:31:1: E302 expected 2 blank lines, found 1
+inventorysystemog.py:36:1: E302 expected 2 blank lines, found 1
+inventorysystemog.py:41:1: E302 expected 2 blank lines, found 1
+inventorysystemog.py:48:1: E302 expected 2 blank lines, found 1
+inventorysystemog.py:61:1: E305 expected 2 blank lines after class or function definition, found 1
+inventorysystemog.py:61:7: W292 no newline at end of file
